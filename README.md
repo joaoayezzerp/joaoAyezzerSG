@@ -1,4 +1,4 @@
-## Opa eu sou a João Ayezzer, coordenador da equipe de desenvolvimento web!
+## Opa eu sou a João Ayezzer, coordenador da equipe de desenvolvimento
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
